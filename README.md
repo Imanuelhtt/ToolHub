@@ -16,6 +16,4 @@ I developed the UI design for ToolHub, a mobile app specialized in heavy machine
 
 
 
-### LINK FIGMA ![Logo]<img width="1667" height="2500" alt="image" src="https://github.com/user-attachments/assets/f5bd3b69-6af2-40a4-8a9b-0a8a5fd0eaae" />
-
-https://www.figma.com/design/wi6xx3Nxc1mUv25IO9mdOY/Kelompok-10---Project--Prototype-?node-id=12-420&t=hp0W4CL9JZDnqsdS-1
+## [LINK FIGMA](https://www.figma.com/design/wi6xx3Nxc1mUv25IO9mdOY/Kelompok-10---Project--Prototype-?node-id=12-420&t=hp0W4CL9JZDnqsdS-1) <img src="https://github.com/user-attachments/assets/f5bd3b69-6af2-40a4-8a9b-0a8a5fd0eaae" width="25">
